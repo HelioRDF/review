@@ -1,0 +1,42 @@
+{
+  "word-list": [
+    {
+      "ingles": "barely",
+      "portugues": "mal",
+      "memorizada": false
+    },
+    {
+      "ingles": "barrel",
+      "portugues": "barril",
+      "memorizada": false
+    },
+    {
+      "ingles": "barrier",
+      "portugues": "barreira",
+      "memorizada": true
+    },
+    {
+      "ingles": "barely",
+      "portugues": "mal",
+      "memorizada": false
+    },
+    {
+      "ingles": "barrel",
+      "portugues": "barril",
+      "memorizada": false
+    },
+    {
+      "ingles": "barrier",
+      "portugues": "barreira",
+      "memorizada": true
+    }
+  ],
+  "new-list": [
+    {
+      "ingles": "01",
+      "portugues": "01",
+      "visibilidade": false,
+      "compreendido": false
+    }
+  ]
+}

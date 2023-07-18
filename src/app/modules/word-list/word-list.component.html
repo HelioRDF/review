@@ -1,0 +1,21 @@
+<table style="width:100%">
+    <caption></caption>
+    <tr>
+        <th>Id</th>
+        <th>Verbo</th>
+        <th>Tradução</th>
+        <!-- <th>Visibilidade</th>-->
+        <th>Ações</th>
+    </tr>
+    <tr *ngFor="let item of wordList; let i = index">
+        <td>{{i+1}}</td>
+
+        <td><button>Escutar</button> - {{item.ingles}}</td>
+        <td><button *ngIf=!item.mostrar (click)="item.mostrar=!item.mostrar">Traduzir</button> 
+            <label *ngIf=!item.mostrar> *** </label>
+            <label *ngIf=item.mostrar> {{item.portugues}} </label>
+        </td>
+        <!-- <td>{{item.visibilidade}}</td>-->
+        <td> <button (click)="memorizada(i)">memorizada</button></td>
+    </tr>
+</table>
