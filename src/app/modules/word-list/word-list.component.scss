@@ -7,7 +7,8 @@ th,
 td {
     border: 1px solid black;
 }
-caption{
+
+caption {
 
     background-color: #9fada8;
     color: #fff;
@@ -46,3 +47,45 @@ tr:hover:nth-child(1n + 2) {
     color: #fff;
 }
 
+//-------------------------------------------------------------------
+//Menu Audio
+
+.meu-audio{
+    width: 100px;
+    height: 35px;
+}
+.meu-audio::-webkit-media-controls-current-time-display,
+.meu-audio::-webkit-media-controls-time-remaining-display {
+    display: none;
+}
+
+.meu-audio::-webkit-media-controls-timeline {
+    display: none;
+}
+
+.meu-audio::-moz-range-track {
+    display: none;
+}
+
+.meu-audio::-ms-track {
+    display: none;
+}
+
+.meu-audio::-webkit-slider-runnable-track {
+    display: none;
+}
+
+.meu-audio::-webkit-media-controls-volume-slider {
+    display: none;
+}
+
+.meu-audio::-moz-range-track {
+    display: none;
+}
+
+.meu-audio::-ms-track {
+    display: none;
+}
+
+
+//-------------------------------------------------------------------

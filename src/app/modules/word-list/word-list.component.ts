@@ -1,4 +1,4 @@
-import { Component, EventEmitter } from '@angular/core';
+import { Component, EventEmitter, ViewChild } from '@angular/core';
 import { Word } from 'src/app/interface/word';
 import { WordListService } from 'src/app/services/word-list.service';
 
@@ -46,6 +46,11 @@ export class WordListComponent {
     this.wordList.splice(event, 1)
   }
 
+  @ViewChild('audioPlayer') audioPlayer: any;
+  
+  reproduzirAudio() {
+    this.audioPlayer.nativeElement.play();
+  }
 
 
 }
