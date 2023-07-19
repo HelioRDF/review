@@ -11,25 +11,26 @@ export class WordListComponent {
 
   constructor(public wordListService: WordListService) { }
   public showWord = true;
-  public wordList: Array<Word> = [];
+  public listaMemorizada: Array<Word> = [];
+  public listaAprendendo: Array<Word> = [];
   public emitEvent = new EventEmitter();
 
   ngOnInit(): void {
-    this.wordListService.wordList().subscribe({
-      next: (res: any) => {    
-        this.wordList = res
-        this.wordList.forEach(e => e.mostrar=false);
-        console.log(this.wordList)
+    this.wordListService.wordListAprendendo().subscribe({
+      next: (res: Array<Word>) => {
+        this.listaAprendendo = res
       },
       error: (err: any) => err
     }
     );
 
+    
+
     this.wordListService.emitEvent.subscribe(
       {
         next: (res: any) => {
           alert(`Voce adicionou => ${res}`)
-           return this.wordList.push(res)
+          return this.listaMemorizada.push(res)
         },
         error: (err: any) => console.log(err)
       });
@@ -37,17 +38,17 @@ export class WordListComponent {
 
 
 
-  public visibility(mostrar:boolean) {
+  public visibility(mostrar: boolean) {
     console.log(event)
 
   }
 
   public memorizada(event: number) {
-    this.wordList.splice(event, 1)
+    this.listaAprendendo.splice(event, 1)
   }
 
   @ViewChild('audioPlayer') audioPlayer: any;
-  
+
   reproduzirAudio() {
     this.audioPlayer.nativeElement.play();
   }

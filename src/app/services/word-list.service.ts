@@ -10,12 +10,20 @@ export class WordListService {
 
   constructor(private http: HttpClient) { }
   public emitEvent = new EventEmitter();
-  private list:Array<string> =[]
   private url:string ="http://localhost:3000/"
 
 
-  public wordList(): Observable<Array<Word>> {
-    return this.http.get<Array<Word>>(`${this.url}word-list`)
+  public wordListAprendendo(): Observable<Array<Word>> {
+    return this.http.get<Array<Word>>(`${this.url}word-list-aprendendo`)
+      .pipe(
+        res => res,
+        error => error
+
+      )
+  }
+
+  public wordListMemorizada(): Observable<Array<Word>> {
+    return this.http.get<Array<Word>>(`${this.url}word-list-memorizada`)
       .pipe(
         res => res,
         error => error

@@ -1,6 +1,9 @@
 h1 {
     text-align: center;
 }
+label{
+    font-size: 20px;
+}
 
 table,
 th,
@@ -23,13 +26,13 @@ table {
 th {
     background-color: #0f1e23;
     color: #6acd65;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 th,
 td {
     padding: 10px;
-    text-align: left;
+    text-align: center;
     width: 120px;
 }
 
@@ -89,3 +92,29 @@ tr:hover:nth-child(1n + 2) {
 
 
 //-------------------------------------------------------------------
+
+/* Estilo padrão do botão */
+.botao-moderno {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #7c939b;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Estilo do botão ao passar o mouse */
+  .botao-moderno:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Estilo do botão ao ser clicado */
+  .botao-moderno:active {
+    background-color: #003e80;
+  }
