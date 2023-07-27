@@ -1,130 +1,886 @@
 {
+  "verbo": [
+    {
+      "ingles": "add",
+      "portugues": "adicionar"
+    },
+    {
+      "ingles": "agree",
+      "portugues": "concordar"
+    },
+    {
+      "ingles": "answer",
+      "portugues": "responder / atender"
+    },
+    {
+      "ingles": "arrive",
+      "portugues": "chegar"
+    },
+    {
+      "ingles": "ask",
+      "portugues": "perguntar"
+    },
+    {
+      "ingles": "bake",
+      "portugues": "assar"
+    },
+    {
+      "ingles": "be",
+      "portugues": "ser ou estar"
+    },
+    {
+      "ingles": "begin",
+      "portugues": "iniciar/começar"
+    },
+    {
+      "ingles": "believe",
+      "portugues": "acreditar"
+    },
+    {
+      "ingles": "bless",
+      "portugues": "abençoar"
+    },
+    {
+      "ingles": "break",
+      "portugues": "quebrar"
+    },
+    {
+      "ingles": "bring",
+      "portugues": "trazer"
+    },
+    {
+      "ingles": "brush",
+      "portugues": "escovar"
+    },
+    {
+      "ingles": "build",
+      "portugues": "construir"
+    },
+    {
+      "ingles": "burn",
+      "portugues": "queimar"
+    },
+    {
+      "ingles": "buy",
+      "portugues": "comprar"
+    },
+    {
+      "ingles": "call",
+      "portugues": "chamar"
+    },
+    {
+      "ingles": "clean",
+      "portugues": "limpar"
+    },
+    {
+      "ingles": "comb",
+      "portugues": "pentear"
+    },
+    {
+      "ingles": "come",
+      "portugues": "vir"
+    },
+    {
+      "ingles": "come back",
+      "portugues": "voltar"
+    },
+    {
+      "ingles": "cook",
+      "portugues": "cozinhar"
+    },
+    {
+      "ingles": "cry",
+      "portugues": "chorar"
+    },
+    {
+      "ingles": "dance",
+      "portugues": "dançar"
+    },
+    {
+      "ingles": "date",
+      "portugues": "namorar"
+    },
+    {
+      "ingles": "do",
+      "portugues": "fazer"
+    },
+    {
+      "ingles": "dream",
+      "portugues": "sonhar"
+    },
+    {
+      "ingles": "drink",
+      "portugues": "beber"
+    },
+    {
+      "ingles": "drive",
+      "portugues": "dirigir"
+    },
+    {
+      "ingles": "eat",
+      "portugues": "comer"
+    },
+    {
+      "ingles": "enjoy",
+      "portugues": "curtir/aproveitar"
+    },
+    {
+      "ingles": "erase",
+      "portugues": "apagar"
+    },
+    {
+      "ingles": "feel",
+      "portugues": "sentir"
+    },
+    {
+      "ingles": "fight",
+      "portugues": "lutar"
+    },
+    {
+      "ingles": "fish",
+      "portugues": "pescar"
+    },
+    {
+      "ingles": "flirt",
+      "portugues": "flertar"
+    },
+    {
+      "ingles": "fly",
+      "portugues": "voar"
+    },
+    {
+      "ingles": "forget",
+      "portugues": "esquecer"
+    },
+    {
+      "ingles": "forgive",
+      "portugues": "perdoar"
+    },
+    {
+      "ingles": "fry",
+      "portugues": "fritar"
+    },
+    {
+      "ingles": "get",
+      "portugues": "obter"
+    },
+    {
+      "ingles": "get up",
+      "portugues": "levantar"
+    },
+    {
+      "ingles": "give",
+      "portugues": "dar"
+    },
+    {
+      "ingles": "give up",
+      "portugues": "desistir"
+    },
+    {
+      "ingles": "go",
+      "portugues": "ir"
+    },
+    {
+      "ingles": "grow",
+      "portugues": "crescer"
+    },
+    {
+      "ingles": "happen",
+      "portugues": "acontecer"
+    },
+    {
+      "ingles": "have",
+      "portugues": "ter"
+    },
+    {
+      "ingles": "heal",
+      "portugues": "curar"
+    },
+    {
+      "ingles": "hear",
+      "portugues": "ouvir"
+    },
+    {
+      "ingles": "help",
+      "portugues": "ajudar"
+    },
+    {
+      "ingles": "hope",
+      "portugues": "ter esperança"
+    },
+    {
+      "ingles": "hug",
+      "portugues": "abraçar"
+    },
+    {
+      "ingles": "hunt",
+      "portugues": "caçar"
+    },
+    {
+      "ingles": "hurt",
+      "portugues": "magoar"
+    },
+    {
+      "ingles": "imagine",
+      "portugues": "imaginar"
+    },
+    {
+      "ingles": "improve",
+      "portugues": "melhorar"
+    },
+    {
+      "ingles": "intend",
+      "portugues": "pretender"
+    },
+    {
+      "ingles": "introduce",
+      "portugues": "apresentar"
+    },
+    {
+      "ingles": "invite",
+      "portugues": "convidar"
+    },
+    {
+      "ingles": "jump",
+      "portugues": "pular"
+    },
+    {
+      "ingles": "keep",
+      "portugues": "manter"
+    },
+    {
+      "ingles": "kick",
+      "portugues": "chutar"
+    },
+    {
+      "ingles": "kill",
+      "portugues": "matar"
+    },
+    {
+      "ingles": "kiss",
+      "portugues": "beijar"
+    },
+    {
+      "ingles": "knock",
+      "portugues": "bater"
+    },
+    {
+      "ingles": "know",
+      "portugues": "saber/conhecer"
+    },
+    {
+      "ingles": "learn",
+      "portugues": "aprender"
+    },
+    {
+      "ingles": "lie",
+      "portugues": "mentir"
+    },
+    {
+      "ingles": "like",
+      "portugues": "gostar"
+    },
+    {
+      "ingles": "listen to",
+      "portugues": "escutar"
+    },
+    {
+      "ingles": "live",
+      "portugues": "viver"
+    },
+    {
+      "ingles": "look",
+      "portugues": "olhar"
+    },
+    {
+      "ingles": "look for",
+      "portugues": "procurar"
+    },
+    {
+      "ingles": "lose",
+      "portugues": "perder"
+    },
+    {
+      "ingles": "love",
+      "portugues": "amar"
+    },
+    {
+      "ingles": "make",
+      "portugues": "fazer"
+    },
+    {
+      "ingles": "miss",
+      "portugues": "perder"
+    },
+    {
+      "ingles": "name",
+      "portugues": "nomear"
+    },
+    {
+      "ingles": "need",
+      "portugues": "precisar"
+    },
+    {
+      "ingles": "number",
+      "portugues": "numerar"
+    },
+    {
+      "ingles": "open",
+      "portugues": "abrir"
+    },
+    {
+      "ingles": "organize",
+      "portugues": "organizar"
+    },
+    {
+      "ingles": "pack",
+      "portugues": "empacotar"
+    },
+    {
+      "ingles": "paint",
+      "portugues": "pintar"
+    },
+    {
+      "ingles": "park",
+      "portugues": "estacionar"
+    },
+    {
+      "ingles": "pay",
+      "portugues": "pagar"
+    },
+    {
+      "ingles": "play",
+      "portugues": "jogar"
+    },
+    {
+      "ingles": "practice",
+      "portugues": "praticar"
+    },
+    {
+      "ingles": "pray",
+      "portugues": "orar"
+    },
+    {
+      "ingles": "prepare",
+      "portugues": "preparar"
+    },
+    {
+      "ingles": "print",
+      "portugues": "imprimir"
+    },
+    {
+      "ingles": "pull",
+      "portugues": "puxar"
+    },
+    {
+      "ingles": "push",
+      "portugues": "empurar"
+    },
+    {
+      "ingles": "question",
+      "portugues": "questionar"
+    },
+    {
+      "ingles": "read",
+      "portugues": "ler"
+    },
+    {
+      "ingles": "record",
+      "portugues": "gravar"
+    },
+    {
+      "ingles": "remember",
+      "portugues": "lembrar"
+    },
+    {
+      "ingles": "rent",
+      "portugues": "alugar"
+    },
+    {
+      "ingles": "repeat",
+      "portugues": "repetir"
+    },
+    {
+      "ingles": "run",
+      "portugues": "correr"
+    },
+    {
+      "ingles": "save",
+      "portugues": "salvar"
+    },
+    {
+      "ingles": "say",
+      "portugues": "dizer"
+    },
+    {
+      "ingles": "see",
+      "portugues": "ver"
+    },
+    {
+      "ingles": "sell",
+      "portugues": "vender"
+    },
+    {
+      "ingles": "share",
+      "portugues": "compartilhar"
+    },
+    {
+      "ingles": "sing",
+      "portugues": "cantar"
+    },
+    {
+      "ingles": "sit down",
+      "portugues": "sentar"
+    },
+    {
+      "ingles": "sleep",
+      "portugues": "dormir"
+    },
+    {
+      "ingles": "smell",
+      "portugues": "cheirar"
+    },
+    {
+      "ingles": "smile",
+      "portugues": "sorrir"
+    },
+    {
+      "ingles": "smoke",
+      "portugues": "fumar"
+    },
+    {
+      "ingles": "speak",
+      "portugues": "falar"
+    },
+    {
+      "ingles": "spend",
+      "portugues": "gastar"
+    },
+    {
+      "ingles": "stay",
+      "portugues": "ficar"
+    },
+    {
+      "ingles": "stop",
+      "portugues": "parar"
+    },
+    {
+      "ingles": "study",
+      "portugues": "estudar"
+    },
+    {
+      "ingles": "survive",
+      "portugues": "sobreviver"
+    },
+    {
+      "ingles": "swim",
+      "portugues": "nadar"
+    },
+    {
+      "ingles": "take",
+      "portugues": "tomar"
+    },
+    {
+      "ingles": "take a shower",
+      "portugues": "tomar banho"
+    },
+    {
+      "ingles": "talk",
+      "portugues": "conversar"
+    },
+    {
+      "ingles": "teach",
+      "portugues": "ensinar"
+    },
+    {
+      "ingles": "tell",
+      "portugues": "contar"
+    },
+    {
+      "ingles": "think",
+      "portugues": "pensar"
+    },
+    {
+      "ingles": "touch",
+      "portugues": "tocar / encostar"
+    },
+    {
+      "ingles": "travel",
+      "portugues": "viajar"
+    },
+    {
+      "ingles": "trust",
+      "portugues": "confiar"
+    },
+    {
+      "ingles": "try",
+      "portugues": "tentar"
+    },
+    {
+      "ingles": "turn off",
+      "portugues": "desligar"
+    },
+    {
+      "ingles": "turn on",
+      "portugues": "ligar"
+    },
+    {
+      "ingles": "understand",
+      "portugues": "entender"
+    },
+    {
+      "ingles": "unite",
+      "portugues": "unir"
+    },
+    {
+      "ingles": "visit",
+      "portugues": "visitar"
+    },
+    {
+      "ingles": "vote",
+      "portugues": "votar"
+    },
+    {
+      "ingles": "wait",
+      "portugues": "esperar"
+    },
+    {
+      "ingles": "waste",
+      "portugues": "desperdiçar"
+    },
+    {
+      "ingles": "wake up",
+      "portugues": "acordar"
+    },
+    {
+      "ingles": "walk",
+      "portugues": "andar"
+    },
+    {
+      "ingles": "want",
+      "portugues": "querer"
+    },
+    {
+      "ingles": "wash",
+      "portugues": "lavar"
+    },
+    {
+      "ingles": "watch",
+      "portugues": "assistir"
+    },
+    {
+      "ingles": "wear",
+      "portugues": "vestir"
+    },
+    {
+      "ingles": "win",
+      "portugues": "vencer"
+    },
+    {
+      "ingles": "wish",
+      "portugues": "desejar"
+    },
+    {
+      "ingles": "work",
+      "portugues": "trabalhar"
+    },
+    {
+      "ingles": "write",
+      "portugues": "escrever"
+    },
+    {
+      "ingles": "xerox",
+      "portugues": "copiar"
+    },
+    {
+      "ingles": "yawn",
+      "portugues": "bocejar"
+    }
+  ],
+  "numero": [
+    {
+      "ingles": "one",
+      "portugues": "1"
+    },
+    {
+      "ingles": "two",
+      "portugues": "2"
+    },
+    {
+      "ingles": "three",
+      "portugues": "3"
+    },
+    {
+      "ingles": "four",
+      "portugues": "4"
+    },
+    {
+      "ingles": "five",
+      "portugues": "5"
+    },
+    {
+      "ingles": "six",
+      "portugues": "6"
+    },
+    {
+      "ingles": "seven",
+      "portugues": "7"
+    },
+    {
+      "ingles": "eight",
+      "portugues": "8"
+    },
+    {
+      "ingles": "nine",
+      "portugues": "9"
+    },
+    {
+      "ingles": "ten",
+      "portugues": "10"
+    },
+    {
+      "ingles": "eleven",
+      "portugues": "11"
+    },
+    {
+      "ingles": "twelve",
+      "portugues": "12"
+    },
+    {
+      "ingles": "thirteen",
+      "portugues": "13"
+    },
+    {
+      "ingles": "fourteen",
+      "portugues": "14"
+    },
+    {
+      "ingles": "fifteen",
+      "portugues": "15"
+    },
+    {
+      "ingles": "sixteen",
+      "portugues": "16"
+    },
+    {
+      "ingles": "seventeen",
+      "portugues": "17"
+    },
+    {
+      "ingles": "eighteen",
+      "portugues": "18"
+    },
+    {
+      "ingles": "nineteen",
+      "portugues": "19"
+    },
+    {
+      "ingles": "twenty",
+      "portugues": "20"
+    },
+    {
+      "ingles": "twenty one",
+      "portugues": "21"
+    },
+    {
+      "ingles": "twenty two",
+      "portugues": "22"
+    },
+    {
+      "ingles": "twenty three",
+      "portugues": "23"
+    },
+    {
+      "ingles": "twenty four",
+      "portugues": "24"
+    },
+    {
+      "ingles": "twenty five",
+      "portugues": "25"
+    },
+    {
+      "ingles": "twenty six",
+      "portugues": "26"
+    },
+    {
+      "ingles": "twenty seven",
+      "portugues": "27"
+    },
+    {
+      "ingles": "twenty eight",
+      "portugues": "28"
+    },
+    {
+      "ingles": "twenty nine",
+      "portugues": "29"
+    },
+    {
+      "ingles": "thirty",
+      "portugues": "30"
+    },
+    {
+      "ingles": "forty",
+      "portugues": "40"
+    },
+    {
+      "ingles": "fifty",
+      "portugues": "50"
+    },
+    {
+      "ingles": "sixty",
+      "portugues": "60"
+    },
+    {
+      "ingles": "seventy",
+      "portugues": "70"
+    },
+    {
+      "ingles": "eighty",
+      "portugues": "80"
+    },
+    {
+      "ingles": "ninety",
+      "portugues": "90"
+    },
+    {
+      "ingles": "one hundred",
+      "portugues": "100"
+    },
+    {
+      "ingles": "thousand",
+      "portugues": "1000"
+    },
+    {
+      "ingles": "two thousands",
+      "portugues": "2000"
+    }
+  ],
   "vogal": [
     {
-      "palavraIngles": "a",
-      "palavraPortugues": "Ei"
+      "ingles": "a",
+      "portugues": "Ei"
     },
     {
-      "palavraIngles": "e",
-      "palavraPortugues": "I"
+      "ingles": "e",
+      "portugues": "I"
     },
     {
-      "palavraIngles": "i",
-      "palavraPortugues": "Ái"
+      "ingles": "i",
+      "portugues": "Ái"
     },
     {
-      "palavraIngles": "o",
-      "palavraPortugues": "OU"
+      "ingles": "o",
+      "portugues": "OU"
     },
     {
-      "palavraIngles": "u",
-      "palavraPortugues": "YU"
+      "ingles": "u",
+      "portugues": "YU"
     }
   ],
   "consoante": [
     {
-      "palavraIngles": "a",
-      "palavraPortugues": "Ei"
+      "ingles": "a",
+      "portugues": "Ei"
     },
     {
-      "palavraIngles": "b",
-      "palavraPortugues": "BI"
+      "ingles": "b",
+      "portugues": "BI"
     },
     {
-      "palavraIngles": "c",
-      "palavraPortugues": "CI"
+      "ingles": "c",
+      "portugues": "CI"
     },
     {
-      "palavraIngles": "d",
-      "palavraPortugues": "DI"
+      "ingles": "d",
+      "portugues": "DI"
     },
     {
-      "palavraIngles": "e",
-      "palavraPortugues": "I"
+      "ingles": "e",
+      "portugues": "I"
     },
     {
-      "palavraIngles": "f",
-      "palavraPortugues": "ÉF"
+      "ingles": "f",
+      "portugues": "ÉF"
     },
     {
-      "palavraIngles": "g",
-      "palavraPortugues": "GI"
+      "ingles": "g",
+      "portugues": "GI"
     },
     {
-      "palavraIngles": "h",
-      "palavraPortugues": "EICH"
+      "ingles": "h",
+      "portugues": "EICH"
     },
     {
-      "palavraIngles": "i",
-      "palavraPortugues": "ÁI"
+      "ingles": "i",
+      "portugues": "ÁI"
     },
     {
-      "palavraIngles": "j",
-      "palavraPortugues": "JEI"
+      "ingles": "j",
+      "portugues": "JEI"
     },
     {
-      "palavraIngles": "k",
-      "palavraPortugues": "KEI"
+      "ingles": "k",
+      "portugues": "KEI"
     },
     {
-      "palavraIngles": "l",
-      "palavraPortugues": "ÉL"
+      "ingles": "l",
+      "portugues": "ÉL"
     },
     {
-      "palavraIngles": "m",
-      "palavraPortugues": "EM"
+      "ingles": "m",
+      "portugues": "EM"
     },
     {
-      "palavraIngles": "n",
-      "palavraPortugues": "EN"
+      "ingles": "n",
+      "portugues": "EN"
     },
     {
-      "palavraIngles": "o",
-      "palavraPortugues": "OU"
+      "ingles": "o",
+      "portugues": "OU"
     },
     {
-      "palavraIngles": "p",
-      "palavraPortugues": "PI"
+      "ingles": "p",
+      "portugues": "PI"
     },
     {
-      "palavraIngles": "q",
-      "palavraPortugues": "KIU"
+      "ingles": "q",
+      "portugues": "KIU"
     },
     {
-      "palavraIngles": "r",
-      "palavraPortugues": "AR"
+      "ingles": "r",
+      "portugues": "AR"
     },
     {
-      "palavraIngles": "s",
-      "palavraPortugues": "ÉS"
+      "ingles": "s",
+      "portugues": "ÉS"
     },
     {
-      "palavraIngles": "t",
-      "palavraPortugues": "TI"
+      "ingles": "t",
+      "portugues": "TI"
     },
     {
-      "palavraIngles": "u",
-      "palavraPortugues": "YU"
+      "ingles": "u",
+      "portugues": "YU"
     },
     {
-      "palavraIngles": "v",
-      "palavraPortugues": "VI"
+      "ingles": "v",
+      "portugues": "VI"
     },
     {
-      "palavraIngles": "w",
-      "palavraPortugues": "DOBIU"
+      "ingles": "w",
+      "portugues": "DOBIU"
     },
     {
-      "palavraIngles": "x",
-      "palavraPortugues": "ECS"
+      "ingles": "x",
+      "portugues": "ECS"
     },
     {
-      "palavraIngles": "y",
-      "palavraPortugues": "UAI"
+      "ingles": "y",
+      "portugues": "UAI"
     },
     {
-      "palavraIngles": "z",
-      "palavraPortugues": "ZI"
+      "ingles": "z",
+      "portugues": "ZI"
     }
   ],
   "word-list-aprendendo": [

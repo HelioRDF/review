@@ -30,4 +30,41 @@ export class WordListService {
 
       )
   }
+
+
+  public wordListVogal(): Observable<Array<Word>> {
+    return this.http.get<Array<Word>>(`${this.url}vogal`)
+      .pipe(
+        res => res,
+        error => error
+
+      )
+  }
+
+  public wordListConsoante(): Observable<Array<Word>> {
+    return this.http.get<Array<Word>>(`${this.url}consoante`)
+      .pipe(
+        res => res,
+        error => error
+
+      )
+  }
+
+  public wordListNumero(): Observable<Array<Word>> {
+    return this.http.get<Array<Word>>(`${this.url}numero`)
+      .pipe(
+        res => res,
+        error => error
+
+      )
+  }
+
+  public wordListVerbo(): Observable<Array<Word>> {
+    return this.http.get<Array<Word>>(`${this.url}verbo`)
+      .pipe(
+        res => res,
+        error => error
+
+      )
+  }
 }

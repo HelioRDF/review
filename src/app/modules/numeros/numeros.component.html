@@ -1,1 +1,37 @@
-<p>numeros works!</p>
+
+<h1>Numbers ({{numeros.length}})</h1>
+<table style="width:100%">
+    <caption></caption>
+    <tr>
+   
+        <th>Reproduzir</th>
+        <th>Verbo</th>
+        <th>Tradução</th>
+        <!-- <th>Visibilidade</th>-->
+        <th>Ações</th>
+    </tr>
+    <tr *ngFor="let item of numeros; let i = index">
+ 
+    
+            <td>
+                <audio class="meu-audio " controls="controls"
+                    controlsList="nospellcheck noduration nodirectionality noseekforward noseekback noremoteplayback nofullscreen ">
+                    <source src='../../../assets/audio/numero/{{item.ingles}}.mp3' type="audio/mp3" />
+
+                </audio>
+            </td>
+
+            <td><label> {{item.ingles}}</label></td>
+            <td><button  class="botao-moderno" *ngIf=!item.mostrar (click)="item.mostrar=!item.mostrar"><img
+                        src="../../../assets/img/mostrar.png" width="15"></button>
+                <label *ngIf=!item.mostrar> *** </label>
+                <label *ngIf=item.mostrar> {{item.portugues}} </label>
+            </td>
+            <!-- <td>{{item.visibilidade}}</td>-->
+            <td> <button class="botao-moderno" (click)="memorizada(i)"> <img src="../../../assets/img/like.png"
+                        width="15"> </button>
+            </td>
+            <!-- Adicionar audio de forma dinamica -->
+
+    </tr>
+</table>
