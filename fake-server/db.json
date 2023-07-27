@@ -1,4 +1,132 @@
 {
+  "vogal": [
+    {
+      "palavraIngles": "a",
+      "palavraPortugues": "Ei"
+    },
+    {
+      "palavraIngles": "e",
+      "palavraPortugues": "I"
+    },
+    {
+      "palavraIngles": "i",
+      "palavraPortugues": "Ái"
+    },
+    {
+      "palavraIngles": "o",
+      "palavraPortugues": "OU"
+    },
+    {
+      "palavraIngles": "u",
+      "palavraPortugues": "YU"
+    }
+  ],
+  "consoante": [
+    {
+      "palavraIngles": "a",
+      "palavraPortugues": "Ei"
+    },
+    {
+      "palavraIngles": "b",
+      "palavraPortugues": "BI"
+    },
+    {
+      "palavraIngles": "c",
+      "palavraPortugues": "CI"
+    },
+    {
+      "palavraIngles": "d",
+      "palavraPortugues": "DI"
+    },
+    {
+      "palavraIngles": "e",
+      "palavraPortugues": "I"
+    },
+    {
+      "palavraIngles": "f",
+      "palavraPortugues": "ÉF"
+    },
+    {
+      "palavraIngles": "g",
+      "palavraPortugues": "GI"
+    },
+    {
+      "palavraIngles": "h",
+      "palavraPortugues": "EICH"
+    },
+    {
+      "palavraIngles": "i",
+      "palavraPortugues": "ÁI"
+    },
+    {
+      "palavraIngles": "j",
+      "palavraPortugues": "JEI"
+    },
+    {
+      "palavraIngles": "k",
+      "palavraPortugues": "KEI"
+    },
+    {
+      "palavraIngles": "l",
+      "palavraPortugues": "ÉL"
+    },
+    {
+      "palavraIngles": "m",
+      "palavraPortugues": "EM"
+    },
+    {
+      "palavraIngles": "n",
+      "palavraPortugues": "EN"
+    },
+    {
+      "palavraIngles": "o",
+      "palavraPortugues": "OU"
+    },
+    {
+      "palavraIngles": "p",
+      "palavraPortugues": "PI"
+    },
+    {
+      "palavraIngles": "q",
+      "palavraPortugues": "KIU"
+    },
+    {
+      "palavraIngles": "r",
+      "palavraPortugues": "AR"
+    },
+    {
+      "palavraIngles": "s",
+      "palavraPortugues": "ÉS"
+    },
+    {
+      "palavraIngles": "t",
+      "palavraPortugues": "TI"
+    },
+    {
+      "palavraIngles": "u",
+      "palavraPortugues": "YU"
+    },
+    {
+      "palavraIngles": "v",
+      "palavraPortugues": "VI"
+    },
+    {
+      "palavraIngles": "w",
+      "palavraPortugues": "DOBIU"
+    },
+    {
+      "palavraIngles": "x",
+      "palavraPortugues": "ECS"
+    },
+    {
+      "palavraIngles": "y",
+      "palavraPortugues": "UAI"
+    },
+    {
+      "palavraIngles": "z",
+      "palavraPortugues": "ZI"
+    }
+  ],
   "word-list-aprendendo": [
     {
       "ingles": "barely",
@@ -86,8 +214,6 @@
       "memorizada": false
     }
   ],
-
-  
   "word-list-memorizada": [
     {
       "ingles": "belief",
