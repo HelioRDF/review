@@ -1,5 +1,6 @@
 import { Component, EventEmitter, ViewChild } from '@angular/core';
 import { Word } from 'src/app/interface/word';
+import { JsonListService } from 'src/app/services/json-list.service';
 import { WordListService } from 'src/app/services/word-list.service';
 
 @Component({
@@ -10,27 +11,17 @@ import { WordListService } from 'src/app/services/word-list.service';
 export class VerbosComponent {
 
 
-  constructor(public wordListService: WordListService) { }
+  constructor(public top3000: JsonListService) { }
   public verbos: Array<Word> = [];
   public emitEvent = new EventEmitter();
 
   ngOnInit(): void {
-    this.wordListService.wordListVerbo().subscribe({
-      next: (res: Array<Word>) => {
-        this.verbos = res
+    this.top3000.listaVerbos().subscribe({
+      next: (res:any) => {
+        this.verbos = res.verbo
       },
       error: (err: any) => err
-    }
-    );
-
-    this.wordListService.emitEvent.subscribe(
-      {
-        next: (res: any) => {
-          alert(`Voce adicionou => ${res}`)
-          return this.verbos.push(res)
-        },
-        error: (err: any) => console.log(err)
-      });
+    })
   }
 
   public memorizada(event: number) {
