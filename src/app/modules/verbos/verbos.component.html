@@ -14,14 +14,11 @@
 
 
         <td>
-            <div class="audio-container">
-                <button id="audio-button" (click)="toggleAudio()">
-                    <img src="./assets/img/play.png" alt="Botão de Play" />
-                </button>
-                <audio id="audio" class="meu-audio" preload="auto">
-                    <source src='./assets/audio/verbo/{{item.ingles}}.mp3' type="audio/mp3" />
-                </audio>
-            </div>
+            <audio class="meu-audio " controls="controls"
+                controlsList="nospellcheck noduration nodirectionality noseekforward noseekback noremoteplayback nofullscreen ">
+                <source src='./assets/audio/verbo/{{item.ingles}}.mp3' type="audio/mp3" />
+
+            </audio>
         </td>
 
         <td><label>
