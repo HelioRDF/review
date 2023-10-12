@@ -16,14 +16,14 @@
             <td>
                 <audio class="meu-audio " controls="controls"
                     controlsList="nospellcheck noduration nodirectionality noseekforward noseekback noremoteplayback nofullscreen ">
-                    <source src='../../../assets/audio/top3000/{{item.ingles}}.mp3' type="audio/mp3" />
+                    <source src='./assets/audio/top3000/{{item.ingles}}.mp3' type="audio/mp3" />
 
                 </audio>
             </td>
 
             <td><label> {{item.ingles}}</label></td>
             <td><button  class="botao-moderno" *ngIf=!item.mostrar (click)="item.mostrar=!item.mostrar"><img
-                        src="../../../assets/img/mostrar.png" width="15"></button>
+                        src="./assets/img/mostrar.png" width="15"></button>
                 <label *ngIf=!item.mostrar> *** </label>
                 <label *ngIf=item.mostrar> {{item.portugues}} </label>
             </td>
