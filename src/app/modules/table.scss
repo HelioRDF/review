@@ -56,7 +56,7 @@ tr:hover:nth-child(1n + 2) {
 
 .meu-audio{
     width: 100px;
-    height: 35px;
+    height: 50px;
 }
 .meu-audio::-webkit-media-controls-current-time-display,
 .meu-audio::-webkit-media-controls-time-remaining-display {
@@ -122,16 +122,3 @@ tr:hover:nth-child(1n + 2) {
 
 
   
-
-/* Botão Audio */
-#audio-button {
-    cursor: pointer;
-    background: none;
-    border: none;
-  }
-  
-  #audio-button img {
-    width: 50px; /* Ajuste o tamanho conforme necessário */
-    height: 50px; /* Ajuste o tamanho conforme necessário */
-    /* Adicione mais estilos conforme necessário */
-  }
