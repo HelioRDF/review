@@ -15,9 +15,11 @@
 
         <td>
             <div class="audio-container">
-                <img src="./assets/img/verbo/play.png" alt="Botão de Áudio" id="audio-button" />
+                <button id="audio-button" (click)="toggleAudio()">
+                    <img src="./assets/img/play.png" alt="Botão de Play" />
+                </button>
                 <audio id="audio" class="meu-audio" preload="auto">
-                    <source src="./assets/audio/verbo/{{item.ingles}}.mp3" type="audio/mp3" />
+                    <source src='./assets/audio/verbo/{{item.ingles}}.mp3' type="audio/mp3" />
                 </audio>
             </div>
         </td>

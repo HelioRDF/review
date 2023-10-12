@@ -124,18 +124,14 @@ tr:hover:nth-child(1n + 2) {
   
 
 /* Botão Audio */
-  .audio-container {
-    position: relative;
-    display: inline-block;
-}
-
 #audio-button {
     cursor: pointer;
-}
-
-/* Estilize a imagem conforme desejado (tamanho, cor, etc.) */
-#audio-button {
-    width: 100px; /* Ajuste o tamanho conforme necessário */
-    height: 100px; /* Ajuste o tamanho conforme necessário */
+    background: none;
+    border: none;
+  }
+  
+  #audio-button img {
+    width: 50px; /* Ajuste o tamanho conforme necessário */
+    height: 50px; /* Ajuste o tamanho conforme necessário */
     /* Adicione mais estilos conforme necessário */
-}
+  }
