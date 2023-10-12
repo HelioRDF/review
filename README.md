@@ -71,7 +71,9 @@ NPM é um gerenciador de pacotes para o Node.JS npm
 
 - GITHUB PAGES
 https://www.dio.me/articles/como-colocar-um-projeto-angular-no-github-pages
-Mudar angular json
+
+- Mudar angular json
 "outputPath": "docs",
+
+- Build do projeto
 npm run build
-//ng build --base-href /review/ 
