@@ -5,7 +5,26 @@
         "**/.hg": true,
         "**/CVS": true,
         "**/.DS_Store": true,
-        "**/Thumbs.db": true
+        "**/Thumbs.db": true,
+        "node_modules": true,
+        ".vscode": true,
+        ".angular/cache/16.1.4": true,
+        "package-lock.json": true,
+        ".gitignore": true,
+        ".editorconfig": true,
+        "tsconfig.app.json": true,
+        "tsconfig.json": true,
+        "tsconfig.spec.json": true
     },
-    "hide-files.files": []
+    "hide-files.files": [
+        "node_modules",
+        ".vscode",
+        ".angular/cache/16.1.4",
+        "package-lock.json",
+        ".gitignore",
+        ".editorconfig",
+        "tsconfig.app.json",
+        "tsconfig.json",
+        "tsconfig.spec.json"
+    ]
 }

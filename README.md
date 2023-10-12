@@ -77,3 +77,5 @@ https://www.dio.me/articles/como-colocar-um-projeto-angular-no-github-pages
 
 - Build do projeto
 npm run build
+ou
+ng build --base-href /review/
