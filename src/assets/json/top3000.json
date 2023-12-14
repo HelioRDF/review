@@ -80,14 +80,15 @@
       "ingles": "besides",
       "portugues": "além de",
       "memorizada": false
-    },
+    }
+
+  ],
+  "aprendidas": [
     {
       "ingles": "best",
       "portugues": "melhor",
-      "memorizada": false
-    }
-  ],
-  "aprendidas": [
+      "memorizada": true
+    },
     {
       "ingles": "belief",
       "portugues": "crença",
