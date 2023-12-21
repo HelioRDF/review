@@ -76,7 +76,6 @@ https://www.dio.me/articles/como-colocar-um-projeto-angular-no-github-pages
 "outputPath": "docs",
 
 - Build do projeto
-
 ng build --base-href /review/
 Ou
 npm run build // página está retornando em branco com esse comando!
