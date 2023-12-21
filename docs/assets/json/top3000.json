@@ -1,0 +1,1380 @@
+{
+  
+  "aprendendo": [
+    {
+      "ingles": "barely",
+      "portugues": "mal",
+      "memorizada": false
+    },
+    {
+      "ingles": "barrel",
+      "portugues": "barril",
+      "memorizada": false
+    },
+    {
+      "ingles": "barrier",
+      "portugues": "barreira",
+      "memorizada": false
+    },
+    {
+      "ingles": "become",
+      "portugues": "tornar-se",
+      "memorizada": false
+    },
+    {
+      "ingles": "behavior",
+      "portugues": "comportamento",
+      "memorizada": false
+    },
+    {
+      "ingles": "behind",
+      "portugues": "atrás",
+      "memorizada": false
+    },
+    {
+      "ingles": "being",
+      "portugues": "sendo",
+      "memorizada": false
+    },
+    {
+      "ingles": "belong",
+      "portugues": "pertencer",
+      "memorizada": false
+    },
+    {
+      "ingles": "below",
+      "portugues": "abaixo",
+      "memorizada": false
+    },
+    {
+      "ingles": "belt",
+      "portugues": "cinto",
+      "memorizada": false
+    },
+    {
+      "ingles": "bend",
+      "portugues": "curva",
+      "memorizada": false
+    },
+    {
+      "ingles": "beneath",
+      "portugues": "abaixo",
+      "memorizada": false
+    }
+
+
+  ],
+  
+  "aprendidas": [
+    {
+      "ingles": "bench",
+      "portugues": "banco",
+      "memorizada": false
+    },
+    {
+      "ingles": "benefit",
+      "portugues": "benefício",
+      "memorizada": false
+    },
+    {
+      "ingles": "beside",
+      "portugues": "ao lado de",
+      "memorizada": false
+    },
+    {
+      "ingles": "besides",
+      "portugues": "além de",
+      "memorizada": false
+    },
+    {
+      "ingles": "best",
+      "portugues": "melhor",
+      "memorizada": true
+    },
+    {
+      "ingles": "belief",
+      "portugues": "crença",
+      "memorizada": true
+    },
+    {
+      "ingles": "believe",
+      "portugues": "acreditar",
+      "memorizada": true
+    },
+    {
+      "ingles": "bell",
+      "portugues": "sino",
+      "memorizada": true
+    },
+    {
+      "ingles": "begin",
+      "portugues": "começar",
+      "memorizada": true
+    },
+    {
+      "ingles": "beginning",
+      "portugues": "começo",
+      "memorizada": true
+    },
+    {
+      "ingles": "bed",
+      "portugues": "cama",
+      "memorizada": true
+    },
+    {
+      "ingles": "bedroom",
+      "portugues": "quarto",
+      "memorizada": true
+    },
+    {
+      "ingles": "beer",
+      "portugues": "cerveja",
+      "memorizada": true
+    },
+    {
+      "ingles": "before",
+      "portugues": "antes",
+      "memorizada": true
+    },
+    {
+      "ingles": "bear",
+      "portugues": "urso",
+      "memorizada": true
+    },
+    {
+      "ingles": "basis",
+      "portugues": "base",
+      "memorizada": true
+    },
+    {
+      "ingles": "beat",
+      "portugues": "bater",
+      "memorizada": true
+    },
+    {
+      "ingles": "beautiful",
+      "portugues": "bonito",
+      "memorizada": true
+    },
+    {
+      "ingles": "beauty",
+      "portugues": "beleza",
+      "memorizada": true
+    },
+    {
+      "ingles": "because",
+      "portugues": "porque",
+      "memorizada": true
+    },
+    {
+      "ingles": "bean",
+      "portugues": "feijão",
+      "memorizada": true
+    },
+    {
+      "ingles": "beach",
+      "portugues": "praia",
+      "memorizada": true
+    },
+    {
+      "ingles": "be",
+      "portugues": "ser/estar",
+      "memorizada": true
+    },
+    {
+      "ingles": "battle",
+      "portugues": "batalha",
+      "memorizada": true
+    },
+    {
+      "ingles": "battery",
+      "portugues": "bateria",
+      "memorizada": true
+    },
+    {
+      "ingles": "basket",
+      "portugues": "cesta",
+      "memorizada": true
+    },
+    {
+      "ingles": "basketball",
+      "portugues": "basquete",
+      "memorizada": true
+    },
+    {
+      "ingles": "bathroom",
+      "portugues": "banheiro",
+      "memorizada": true
+    },
+    {
+      "ingles": "basically",
+      "portugues": "basicamente",
+      "memorizada": true
+    },
+    {
+      "ingles": "basic",
+      "portugues": "básico",
+      "memorizada": true
+    },
+    {
+      "ingles": "baseball",
+      "portugues": "beisebol",
+      "memorizada": true
+    },
+    {
+      "ingles": "base",
+      "portugues": "base",
+      "memorizada": true
+    },
+    {
+      "ingles": "bar",
+      "portugues": "barra",
+      "memorizada": true
+    },
+    {
+      "ingles": "arise",
+      "portugues": "surgir",
+      "memorizada": true
+    },
+    {
+      "ingles": "arrest",
+      "portugues": "prender",
+      "memorizada": true
+    },
+    {
+      "ingles": "assumption",
+      "portugues": "suposição",
+      "memorizada": true
+    },
+    {
+      "ingles": "attend",
+      "portugues": "comparecer",
+      "memorizada": true
+    },
+    {
+      "ingles": "assume",
+      "portugues": "assumir",
+      "memorizada": true
+    },
+    {
+      "ingles": "assure",
+      "portugues": "assegurar",
+      "memorizada": true
+    },
+    {
+      "ingles": "aware",
+      "portugues": "consciente",
+      "memorizada": true
+    },
+    {
+      "ingles": "awareness",
+      "portugues": "consciência",
+      "memorizada": true
+    },
+    {
+      "ingles": "asset",
+      "portugues": "ativo",
+      "memorizada": true
+    },
+    {
+      "ingles": "attractive",
+      "portugues": "atraente",
+      "memorizada": true
+    },
+    {
+      "ingles": "attract",
+      "portugues": "atrair",
+      "memorizada": true
+    },
+    {
+      "ingles": "attorney",
+      "portugues": "advogado",
+      "memorizada": true
+    },
+    {
+      "ingles": "assignment",
+      "portugues": "tarefa",
+      "memorizada": true
+    },
+    {
+      "ingles": "assessment",
+      "portugues": "avaliação",
+      "memorizada": true
+    },
+    {
+      "ingles": "assess",
+      "portugues": "avaliar",
+      "memorizada": true
+    },
+    {
+      "ingles": "assert",
+      "portugues": "afirmar",
+      "memorizada": true
+    },
+    {
+      "ingles": "away",
+      "portugues": "longe",
+      "memorizada": true
+    },
+    {
+      "ingles": "avoid",
+      "portugues": "evitar",
+      "memorizada": true
+    },
+    {
+      "ingles": "available",
+      "portugues": "disponível",
+      "memorizada": true
+    },
+    {
+      "ingles": "attempt",
+      "portugues": "tentar",
+      "memorizada": true
+    },
+    {
+      "ingles": "audience",
+      "portugues": "público",
+      "memorizada": true
+    },
+    {
+      "ingles": "arrange",
+      "portugues": "organizar",
+      "memorizada": true
+    },
+    {
+      "ingles": "arrangement",
+      "portugues": "arranjo",
+      "memorizada": true
+    },
+    {
+      "ingles": "awful",
+      "portugues": "terrível",
+      "memorizada": true
+    },
+    {
+      "ingles": "badly",
+      "portugues": "mal",
+      "memorizada": true
+    },
+    {
+      "ingles": "balance",
+      "portugues": "equilíbrio",
+      "memorizada": true
+    },
+    {
+      "ingles": "award",
+      "portugues": "prêmio",
+      "memorizada": true
+    },
+    {
+      "ingles": "average",
+      "portugues": "médio",
+      "memorizada": true
+    },
+    {
+      "ingles": "assist",
+      "portugues": "ajudar",
+      "memorizada": true
+    },
+    {
+      "ingles": "assign",
+      "portugues": "atribuir",
+      "memorizada": true
+    },
+    {
+      "ingles": "ban",
+      "portugues": "proibir",
+      "memorizada": true
+    },
+    {
+      "ingles": "authority",
+      "portugues": "autoridade",
+      "memorizada": true
+    },
+    {
+      "ingles": "ball",
+      "portugues": "bola",
+      "memorizada": true
+    },
+    {
+      "ingles": "bake",
+      "portugues": "assar",
+      "memorizada": true
+    },
+    {
+      "ingles": "band",
+      "portugues": "banda",
+      "memorizada": true
+    },
+    {
+      "ingles": "bag",
+      "portugues": "saco",
+      "memorizada": true
+    },
+    {
+      "ingles": "background",
+      "portugues": "fundo",
+      "memorizada": true
+    },
+    {
+      "ingles": "bad",
+      "portugues": "ruim",
+      "memorizada": true
+    },
+    {
+      "ingles": "bank",
+      "portugues": "banco",
+      "memorizada": true
+    },
+    {
+      "ingles": "back",
+      "portugues": "voltar",
+      "memorizada": true
+    },
+    {
+      "ingles": "auto",
+      "portugues": "automático",
+      "memorizada": true
+    },
+    {
+      "ingles": "baby",
+      "portugues": "bebê",
+      "memorizada": true
+    },
+    {
+      "ingles": "a",
+      "portugues": "um/uma",
+      "memorizada": true
+    },
+    {
+      "ingles": "abandon",
+      "portugues": "abandonar",
+      "memorizada": true
+    },
+    {
+      "ingles": "ability",
+      "portugues": "habilidade",
+      "memorizada": true
+    },
+    {
+      "ingles": "able",
+      "portugues": "capaz",
+      "memorizada": true
+    },
+    {
+      "ingles": "abortion",
+      "portugues": "aborto",
+      "memorizada": true
+    },
+    {
+      "ingles": "about",
+      "portugues": "sobre",
+      "memorizada": true
+    },
+    {
+      "ingles": "above",
+      "portugues": "acima",
+      "memorizada": true
+    },
+    {
+      "ingles": "abroad",
+      "portugues": "no exterior",
+      "memorizada": true
+    },
+    {
+      "ingles": "absence",
+      "portugues": "ausência",
+      "memorizada": true
+    },
+    {
+      "ingles": "absolute",
+      "portugues": "absoluto",
+      "memorizada": true
+    },
+    {
+      "ingles": "absolutely",
+      "portugues": "absolutamente",
+      "memorizada": true
+    },
+    {
+      "ingles": "absorb",
+      "portugues": "absorver",
+      "memorizada": true
+    },
+    {
+      "ingles": "abuse",
+      "portugues": "abuso",
+      "memorizada": true
+    },
+    {
+      "ingles": "academic",
+      "portugues": "acadêmico",
+      "memorizada": true
+    },
+    {
+      "ingles": "accept",
+      "portugues": "aceitar",
+      "memorizada": true
+    },
+    {
+      "ingles": "access",
+      "portugues": "acesso",
+      "memorizada": true
+    },
+    {
+      "ingles": "accident",
+      "portugues": "acidente",
+      "memorizada": true
+    },
+    {
+      "ingles": "accompany",
+      "portugues": "acompanhar",
+      "memorizada": true
+    },
+    {
+      "ingles": "accomplish",
+      "portugues": "realizar",
+      "memorizada": true
+    },
+    {
+      "ingles": "according",
+      "portugues": "de acordo com",
+      "memorizada": true
+    },
+    {
+      "ingles": "account",
+      "portugues": "conta",
+      "memorizada": true
+    },
+    {
+      "ingles": "accurate",
+      "portugues": "preciso",
+      "memorizada": true
+    },
+    {
+      "ingles": "accuse",
+      "portugues": "acusar",
+      "memorizada": true
+    },
+    {
+      "ingles": "achieve",
+      "portugues": "alcançar",
+      "memorizada": true
+    },
+    {
+      "ingles": "achievement",
+      "portugues": "realização",
+      "memorizada": true
+    },
+    {
+      "ingles": "acid",
+      "portugues": "ácido",
+      "memorizada": true
+    },
+    {
+      "ingles": "acknowledge",
+      "portugues": "reconhecer",
+      "memorizada": true
+    },
+    {
+      "ingles": "acquire",
+      "portugues": "adquirir",
+      "memorizada": true
+    },
+    {
+      "ingles": "across",
+      "portugues": "através",
+      "memorizada": true
+    },
+    {
+      "ingles": "act",
+      "portugues": "agir",
+      "memorizada": true
+    },
+    {
+      "ingles": "action",
+      "portugues": "ação",
+      "memorizada": true
+    },
+    {
+      "ingles": "active",
+      "portugues": "ativo",
+      "memorizada": true
+    },
+    {
+      "ingles": "activist",
+      "portugues": "ativista",
+      "memorizada": true
+    },
+    {
+      "ingles": "activity",
+      "portugues": "atividade",
+      "memorizada": true
+    },
+    {
+      "ingles": "actor",
+      "portugues": "ator",
+      "memorizada": true
+    },
+    {
+      "ingles": "actress",
+      "portugues": "atriz",
+      "memorizada": true
+    },
+    {
+      "ingles": "actual",
+      "portugues": "real",
+      "memorizada": true
+    },
+    {
+      "ingles": "actually",
+      "portugues": "na verdade",
+      "memorizada": true
+    },
+    {
+      "ingles": "ad",
+      "portugues": "anúncio",
+      "memorizada": true
+    },
+    {
+      "ingles": "adapt",
+      "portugues": "adaptar",
+      "memorizada": true
+    },
+    {
+      "ingles": "add",
+      "portugues": "adicionar",
+      "memorizada": true
+    },
+    {
+      "ingles": "addition",
+      "portugues": "adição",
+      "memorizada": true
+    },
+    {
+      "ingles": "additional",
+      "portugues": "adicional",
+      "memorizada": true
+    },
+    {
+      "ingles": "address",
+      "portugues": "endereço",
+      "memorizada": true
+    },
+    {
+      "ingles": "adequate",
+      "portugues": "adequado",
+      "memorizada": true
+    },
+    {
+      "ingles": "adjust",
+      "portugues": "ajustar",
+      "memorizada": true
+    },
+    {
+      "ingles": "adjustment",
+      "portugues": "ajuste",
+      "memorizada": true
+    },
+    {
+      "ingles": "administration",
+      "portugues": "administração",
+      "memorizada": true
+    },
+    {
+      "ingles": "administrator",
+      "portugues": "administrador",
+      "memorizada": true
+    },
+    {
+      "ingles": "admire",
+      "portugues": "admirar",
+      "memorizada": true
+    },
+    {
+      "ingles": "admission",
+      "portugues": "admissão",
+      "memorizada": true
+    },
+    {
+      "ingles": "admit",
+      "portugues": "admitir",
+      "memorizada": true
+    },
+    {
+      "ingles": "adolescent",
+      "portugues": "adolescente",
+      "memorizada": true
+    },
+    {
+      "ingles": "adopt",
+      "portugues": "adotar",
+      "memorizada": true
+    },
+    {
+      "ingles": "adult",
+      "portugues": "adulto",
+      "memorizada": true
+    },
+    {
+      "ingles": "advance",
+      "portugues": "avançar",
+      "memorizada": true
+    },
+    {
+      "ingles": "advanced",
+      "portugues": "avançado",
+      "memorizada": true
+    },
+    {
+      "ingles": "advantage",
+      "portugues": "vantagem",
+      "memorizada": true
+    },
+    {
+      "ingles": "adventure",
+      "portugues": "aventura",
+      "memorizada": true
+    },
+    {
+      "ingles": "advertising",
+      "portugues": "publicidade",
+      "memorizada": true
+    },
+    {
+      "ingles": "advice",
+      "portugues": "conselho",
+      "memorizada": true
+    },
+    {
+      "ingles": "advise",
+      "portugues": "aconselhar",
+      "memorizada": true
+    },
+    {
+      "ingles": "adviser",
+      "portugues": "consultor",
+      "memorizada": true
+    },
+    {
+      "ingles": "advocate",
+      "portugues": "defensor",
+      "memorizada": true
+    },
+    {
+      "ingles": "affair",
+      "portugues": "assunto/caso",
+      "memorizada": true
+    },
+    {
+      "ingles": "affect",
+      "portugues": "afetar",
+      "memorizada": true
+    },
+    {
+      "ingles": "afford",
+      "portugues": "permitir/arcar",
+      "memorizada": true
+    },
+    {
+      "ingles": "afraid",
+      "portugues": "com medo",
+      "memorizada": true
+    },
+    {
+      "ingles": "African",
+      "portugues": "africano",
+      "memorizada": true
+    },
+    {
+      "ingles": "African-American",
+      "portugues": "afro-americano",
+      "memorizada": true
+    },
+    {
+      "ingles": "after",
+      "portugues": "depois",
+      "memorizada": true
+    },
+    {
+      "ingles": "afternoon",
+      "portugues": "tarde",
+      "memorizada": true
+    },
+    {
+      "ingles": "again",
+      "portugues": "novamente",
+      "memorizada": true
+    },
+    {
+      "ingles": "against",
+      "portugues": "contra",
+      "memorizada": true
+    },
+    {
+      "ingles": "age",
+      "portugues": "idade",
+      "memorizada": true
+    },
+    {
+      "ingles": "agency",
+      "portugues": "agência",
+      "memorizada": true
+    },
+    {
+      "ingles": "agenda",
+      "portugues": "agenda",
+      "memorizada": true
+    },
+    {
+      "ingles": "agent",
+      "portugues": "agente",
+      "memorizada": true
+    },
+    {
+      "ingles": "aggressive",
+      "portugues": "agressivo",
+      "memorizada": true
+    },
+    {
+      "ingles": "ago",
+      "portugues": "atrás",
+      "memorizada": true
+    },
+    {
+      "ingles": "agree",
+      "portugues": "concordar",
+      "memorizada": true
+    },
+    {
+      "ingles": "agreement",
+      "portugues": "acordo",
+      "memorizada": true
+    },
+    {
+      "ingles": "agricultural",
+      "portugues": "agrícola",
+      "memorizada": true
+    },
+    {
+      "ingles": "ah",
+      "portugues": "ah",
+      "memorizada": true
+    },
+    {
+      "ingles": "ahead",
+      "portugues": "adiante",
+      "memorizada": true
+    },
+    {
+      "ingles": "aid",
+      "portugues": "ajuda",
+      "memorizada": true
+    },
+    {
+      "ingles": "aide",
+      "portugues": "ajudante",
+      "memorizada": true
+    },
+    {
+      "ingles": "AIDS",
+      "portugues": "AIDS",
+      "memorizada": true
+    },
+    {
+      "ingles": "aim",
+      "portugues": "objetivo",
+      "memorizada": true
+    },
+    {
+      "ingles": "air",
+      "portugues": "ar",
+      "memorizada": true
+    },
+    {
+      "ingles": "aircraft",
+      "portugues": "aeronave",
+      "memorizada": true
+    },
+    {
+      "ingles": "airline",
+      "portugues": "companhia aérea",
+      "memorizada": true
+    },
+    {
+      "ingles": "airport",
+      "portugues": "aeroporto",
+      "memorizada": true
+    },
+    {
+      "ingles": "album",
+      "portugues": "álbum",
+      "memorizada": true
+    },
+    {
+      "ingles": "alcohol",
+      "portugues": "álcool",
+      "memorizada": true
+    },
+    {
+      "ingles": "alive",
+      "portugues": "vivo",
+      "memorizada": true
+    },
+    {
+      "ingles": "all",
+      "portugues": "todo",
+      "memorizada": true
+    },
+    {
+      "ingles": "alliance",
+      "portugues": "aliança",
+      "memorizada": true
+    },
+    {
+      "ingles": "allow",
+      "portugues": "permitir",
+      "memorizada": true
+    },
+    {
+      "ingles": "ally",
+      "portugues": "aliado",
+      "memorizada": true
+    },
+    {
+      "ingles": "alone",
+      "portugues": "sozinho",
+      "memorizada": true
+    },
+    {
+      "ingles": "along",
+      "portugues": "ao longo de",
+      "memorizada": true
+    },
+    {
+      "ingles": "already",
+      "portugues": "já",
+      "memorizada": true
+    },
+    {
+      "ingles": "also",
+      "portugues": "também",
+      "memorizada": true
+    },
+    {
+      "ingles": "alter",
+      "portugues": "alterar",
+      "memorizada": true
+    },
+    {
+      "ingles": "alternative",
+      "portugues": "alternativa",
+      "memorizada": true
+    },
+    {
+      "ingles": "always",
+      "portugues": "sempre",
+      "memorizada": true
+    },
+    {
+      "ingles": "AM",
+      "portugues": "AM",
+      "memorizada": true
+    },
+    {
+      "ingles": "amazing",
+      "portugues": "incrível",
+      "memorizada": true
+    },
+    {
+      "ingles": "American",
+      "portugues": "americano",
+      "memorizada": true
+    },
+    {
+      "ingles": "analysis",
+      "portugues": "análise",
+      "memorizada": true
+    },
+    {
+      "ingles": "analyst",
+      "portugues": "analista",
+      "memorizada": true
+    },
+    {
+      "ingles": "analyze",
+      "portugues": "analisar",
+      "memorizada": true
+    },
+    {
+      "ingles": "and",
+      "portugues": "e",
+      "memorizada": true
+    },
+    {
+      "ingles": "animal",
+      "portugues": "animal",
+      "memorizada": true
+    },
+    {
+      "ingles": "anniversary",
+      "portugues": "aniversário",
+      "memorizada": true
+    },
+    {
+      "ingles": "anything",
+      "portugues": "qualquer coisa",
+      "memorizada": true
+    },
+    {
+      "ingles": "anywhere",
+      "portugues": "qualquer lugar",
+      "memorizada": true
+    },
+    {
+      "ingles": "although",
+      "portugues": "embora",
+      "memorizada": true
+    },
+    {
+      "ingles": "among",
+      "portugues": "entre",
+      "memorizada": true
+    },
+    {
+      "ingles": "almost",
+      "portugues": "quase",
+      "memorizada": true
+    },
+    {
+      "ingles": "angry",
+      "portugues": "irritado",
+      "memorizada": true
+    },
+    {
+      "ingles": "anyone",
+      "portugues": "qualquer pessoa",
+      "memorizada": true
+    },
+    {
+      "ingles": "apple",
+      "portugues": "maçã",
+      "memorizada": true
+    },
+    {
+      "ingles": "angle",
+      "portugues": "ângulo",
+      "memorizada": true
+    },
+    {
+      "ingles": "anxiety",
+      "portugues": "ansiedade",
+      "memorizada": true
+    },
+    {
+      "ingles": "anticipate",
+      "portugues": "antecipar",
+      "memorizada": true
+    },
+    {
+      "ingles": "announce",
+      "portugues": "anunciar",
+      "memorizada": true
+    },
+    {
+      "ingles": "ancient",
+      "portugues": "antigo",
+      "memorizada": true
+    },
+    {
+      "ingles": "any",
+      "portugues": "qualquer",
+      "memorizada": true
+    },
+    {
+      "ingles": "anybody",
+      "portugues": "qualquer um",
+      "memorizada": true
+    },
+    {
+      "ingles": "anymore",
+      "portugues": "não mais",
+      "memorizada": true
+    },
+    {
+      "ingles": "amount",
+      "portugues": "quantidade",
+      "memorizada": true
+    },
+    {
+      "ingles": "answer",
+      "portugues": "resposta",
+      "memorizada": true
+    },
+    {
+      "ingles": "another",
+      "portugues": "outro",
+      "memorizada": true
+    },
+    {
+      "ingles": "annual",
+      "portugues": "anual",
+      "memorizada": true
+    },
+    {
+      "ingles": "apartment",
+      "portugues": "apartamento",
+      "memorizada": true
+    },
+    {
+      "ingles": "application",
+      "portugues": "aplicação",
+      "memorizada": true
+    },
+    {
+      "ingles": "apply",
+      "portugues": "aplicar",
+      "memorizada": true
+    },
+    {
+      "ingles": "apart",
+      "portugues": "separado",
+      "memorizada": true
+    },
+    {
+      "ingles": "anyway",
+      "portugues": "de qualquer maneira",
+      "memorizada": true
+    },
+    {
+      "ingles": "anger",
+      "portugues": "raiva",
+      "memorizada": true
+    },
+    {
+      "ingles": "argument",
+      "portugues": "argumento",
+      "memorizada": true
+    },
+    {
+      "ingles": "area",
+      "portugues": "área",
+      "memorizada": true
+    },
+    {
+      "ingles": "architect",
+      "portugues": "arquiteto",
+      "memorizada": true
+    },
+    {
+      "ingles": "artist",
+      "portugues": "artista",
+      "memorizada": true
+    },
+    {
+      "ingles": "ask",
+      "portugues": "pedir",
+      "memorizada": true
+    },
+    {
+      "ingles": "assault",
+      "portugues": "assalto",
+      "memorizada": true
+    },
+    {
+      "ingles": "artistic",
+      "portugues": "artístico",
+      "memorizada": true
+    },
+    {
+      "ingles": "Arab",
+      "portugues": "árabe",
+      "memorizada": true
+    },
+    {
+      "ingles": "asleep",
+      "portugues": "adormecido",
+      "memorizada": true
+    },
+    {
+      "ingles": "appeal",
+      "portugues": "apelar",
+      "memorizada": true
+    },
+    {
+      "ingles": "Asian",
+      "portugues": "asiático",
+      "memorizada": true
+    },
+    {
+      "ingles": "armed",
+      "portugues": "armado",
+      "memorizada": true
+    },
+    {
+      "ingles": "arm",
+      "portugues": "braço",
+      "memorizada": true
+    },
+    {
+      "ingles": "army",
+      "portugues": "exército",
+      "memorizada": true
+    },
+    {
+      "ingles": "apparent",
+      "portugues": "aparente",
+      "memorizada": true
+    },
+    {
+      "ingles": "apparently",
+      "portugues": "aparentemente",
+      "memorizada": true
+    },
+    {
+      "ingles": "approval",
+      "portugues": "aprovação",
+      "memorizada": true
+    },
+    {
+      "ingles": "approve",
+      "portugues": "aprovar",
+      "memorizada": true
+    },
+    {
+      "ingles": "appropriate",
+      "portugues": "apropriado",
+      "memorizada": true
+    },
+    {
+      "ingles": "approximately",
+      "portugues": "aproximadamente",
+      "memorizada": true
+    },
+    {
+      "ingles": "around",
+      "portugues": "ao redor",
+      "memorizada": true
+    },
+    {
+      "ingles": "as",
+      "portugues": "como",
+      "memorizada": true
+    },
+    {
+      "ingles": "appear",
+      "portugues": "aparecer",
+      "memorizada": true
+    },
+    {
+      "ingles": "appearance",
+      "portugues": "aparência",
+      "memorizada": true
+    },
+    {
+      "ingles": "appoint",
+      "portugues": "designar",
+      "memorizada": true
+    },
+    {
+      "ingles": "approach",
+      "portugues": "abordagem, aproximação",
+      "memorizada": true
+    },
+    {
+      "ingles": "argue",
+      "portugues": "argumentar",
+      "memorizada": true
+    },
+    {
+      "ingles": "aspect",
+      "portugues": "aspecto",
+      "memorizada": true
+    },
+    {
+      "ingles": "assistance",
+      "portugues": "assistência",
+      "memorizada": true
+    },
+    {
+      "ingles": "assistant",
+      "portugues": "assistente",
+      "memorizada": true
+    },
+    {
+      "ingles": "athlete",
+      "portugues": "atleta",
+      "memorizada": true
+    },
+    {
+      "ingles": "athletic",
+      "portugues": "atlético",
+      "memorizada": true
+    },
+    {
+      "ingles": "aside",
+      "portugues": "à parte",
+      "memorizada": true
+    },
+    {
+      "ingles": "atmosphere",
+      "portugues": "atmosfera",
+      "memorizada": true
+    },
+    {
+      "ingles": "author",
+      "portugues": "autor",
+      "memorizada": true
+    },
+    {
+      "ingles": "associate",
+      "portugues": "associar",
+      "memorizada": true
+    },
+    {
+      "ingles": "association",
+      "portugues": "associação",
+      "memorizada": true
+    },
+    {
+      "ingles": "at",
+      "portugues": "em",
+      "memorizada": true
+    },
+    {
+      "ingles": "attention",
+      "portugues": "atenção",
+      "memorizada": true
+    },
+    {
+      "ingles": "attitude",
+      "portugues": "atitude",
+      "memorizada": true
+    },
+    {
+      "ingles": "attribute",
+      "portugues": "atributo",
+      "memorizada": true
+    },
+    {
+      "ingles": "attach",
+      "portugues": "anexar",
+      "memorizada": true
+    },
+    {
+      "ingles": "attack",
+      "portugues": "ataque",
+      "memorizada": true
+    },
+    {
+      "ingles": "appointment",
+      "portugues": "consulta, compromisso",
+      "memorizada": true
+    },
+    {
+      "ingles": "appreciate",
+      "portugues": "apreciar, valorizar",
+      "memorizada": true
+    }
+  ]
+}

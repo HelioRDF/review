@@ -1,0 +1,161 @@
+{
+   "numero": [
+    {
+      "ingles": "one",
+      "portugues": "1"
+    },
+    {
+      "ingles": "two",
+      "portugues": "2"
+    },
+    {
+      "ingles": "three",
+      "portugues": "3"
+    },
+    {
+      "ingles": "four",
+      "portugues": "4"
+    },
+    {
+      "ingles": "five",
+      "portugues": "5"
+    },
+    {
+      "ingles": "six",
+      "portugues": "6"
+    },
+    {
+      "ingles": "seven",
+      "portugues": "7"
+    },
+    {
+      "ingles": "eight",
+      "portugues": "8"
+    },
+    {
+      "ingles": "nine",
+      "portugues": "9"
+    },
+    {
+      "ingles": "ten",
+      "portugues": "10"
+    },
+    {
+      "ingles": "eleven",
+      "portugues": "11"
+    },
+    {
+      "ingles": "twelve",
+      "portugues": "12"
+    },
+    {
+      "ingles": "thirteen",
+      "portugues": "13"
+    },
+    {
+      "ingles": "fourteen",
+      "portugues": "14"
+    },
+    {
+      "ingles": "fifteen",
+      "portugues": "15"
+    },
+    {
+      "ingles": "sixteen",
+      "portugues": "16"
+    },
+    {
+      "ingles": "seventeen",
+      "portugues": "17"
+    },
+    {
+      "ingles": "eighteen",
+      "portugues": "18"
+    },
+    {
+      "ingles": "nineteen",
+      "portugues": "19"
+    },
+    {
+      "ingles": "twenty",
+      "portugues": "20"
+    },
+    {
+      "ingles": "twenty one",
+      "portugues": "21"
+    },
+    {
+      "ingles": "twenty two",
+      "portugues": "22"
+    },
+    {
+      "ingles": "twenty three",
+      "portugues": "23"
+    },
+    {
+      "ingles": "twenty four",
+      "portugues": "24"
+    },
+    {
+      "ingles": "twenty five",
+      "portugues": "25"
+    },
+    {
+      "ingles": "twenty six",
+      "portugues": "26"
+    },
+    {
+      "ingles": "twenty seven",
+      "portugues": "27"
+    },
+    {
+      "ingles": "twenty eight",
+      "portugues": "28"
+    },
+    {
+      "ingles": "twenty nine",
+      "portugues": "29"
+    },
+    {
+      "ingles": "thirty",
+      "portugues": "30"
+    },
+    {
+      "ingles": "forty",
+      "portugues": "40"
+    },
+    {
+      "ingles": "fifty",
+      "portugues": "50"
+    },
+    {
+      "ingles": "sixty",
+      "portugues": "60"
+    },
+    {
+      "ingles": "seventy",
+      "portugues": "70"
+    },
+    {
+      "ingles": "eighty",
+      "portugues": "80"
+    },
+    {
+      "ingles": "ninety",
+      "portugues": "90"
+    },
+    {
+      "ingles": "one hundred",
+      "portugues": "100"
+    },
+    {
+      "ingles": "thousand",
+      "portugues": "1000"
+    },
+    {
+      "ingles": "two thousands",
+      "portugues": "2000"
+    }
+  ]
+
+}
