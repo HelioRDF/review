@@ -52,11 +52,6 @@
       "memorizada": false
     },
     {
-      "ingles": "bench",
-      "portugues": "banco",
-      "memorizada": false
-    },
-    {
       "ingles": "bend",
       "portugues": "curva",
       "memorizada": false
@@ -64,6 +59,16 @@
     {
       "ingles": "beneath",
       "portugues": "abaixo",
+      "memorizada": false
+    }
+
+
+  ],
+  
+  "aprendidas": [
+    {
+      "ingles": "bench",
+      "portugues": "banco",
       "memorizada": false
     },
     {
@@ -80,10 +85,7 @@
       "ingles": "besides",
       "portugues": "além de",
       "memorizada": false
-    }
-
-  ],
-  "aprendidas": [
+    },
     {
       "ingles": "best",
       "portugues": "melhor",
